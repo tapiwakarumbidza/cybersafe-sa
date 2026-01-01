@@ -41,8 +41,8 @@ npm run build
 npm run preview
 ```
 
-**Development server:** `http://localhost:3000`  
-**Production preview:** `http://localhost:4173`
+**Development server:** `[http://localhost:3000](https://cybersafe-sa.vercel.app/)`  
+**Production preview:** `[http://localhost:4173](https://cybersafe-cvwg4hg4z-tapiwas-projects-ae7bb373.vercel.app/)`
 
 ---
 
